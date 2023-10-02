@@ -182,7 +182,7 @@ const CONFIG = {
 	// Second Links Container
 	secondListsContainer: [
 		{
-			icon: 'binary',
+			icon: '',
 			id: '1',
 			links: [
 				{
@@ -204,24 +204,26 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: '',
-			id: '',
-			links: [
-				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
-				},
-				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
-				},
-				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
-				},
-				{
-					name: 'Repos',
-					link: 'https://github.com/migueravila',
+			//
+			//icon: '',
+			//id: '2',
+			//links: [
+				//{
+				//	name: 'Front',
+				//	link: 'https://www.reddit.com/r/Frontend/',
+				//},
+				//{
+				//	name: 'Rust',
+				//	link: 'https://www.reddit.com/r/rust/',
+				//},
+				//{
+					//name: 'Go',
+					//link: 'https://www.reddit.com/r/golang/',
+				//},
+				//{
+				//	name: 'Repos',
+				//	link: 'https://github.com/migueravila',
+					//
 				},
 			],
 		},
