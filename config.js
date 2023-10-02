@@ -150,6 +150,8 @@ const CONFIG = {
 					name: '/b/',
 					link: 'https://boards.4chan.org/b/',
 				},
+				{
+					},
 
 			],
 		},
