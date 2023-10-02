@@ -150,10 +150,7 @@ const CONFIG = {
 					name: '/b/',
 					link: 'https://boards.4chan.org/b/',
 				},
-				//{
-				//	name: '',
-				// link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				//},
+
 			],
 		},
 		{
