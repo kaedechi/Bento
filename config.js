@@ -154,24 +154,24 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: '',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Reddit',
+					link: 'https://www.reddit.com/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Twitter',
+					link: 'x.com/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Youtube',
+					link: 'https://www.youtube.com/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Twitch',
+					link: 'https://www.twitch.tv/',
 				},
 			],
 		},
@@ -184,26 +184,26 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					name: 'Mail',
+					link: 'https://mail.google.com/mail/u/0/#inbox',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					name: 'Nyaa',
+					link: 'https://nyaa.si/',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					name: 'Mal',
+					link: 'https://myanimelist.net/',
 				},
 				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
+					name: 'Anilist',
+					link: 'https://anilist.co/home',
 				},
 			],
 		},
 		{
-			icon: 'github',
-			id: '2',
+			icon: '',
+			id: '',
 			links: [
 				{
 					name: 'Front',
